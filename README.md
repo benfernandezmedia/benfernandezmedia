@@ -1,4 +1,4 @@
-![Banner](../benfernandezmedia/.github/banner/gh-banner.png)
+![Banner](../.github/banner/gh-banner.png)
 
 # About
 I'm actually an digital artist and illustrator whose into tech and multimedia. I mostly use GitHub to run the blog site with GitHub Pages.
