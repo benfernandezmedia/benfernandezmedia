@@ -1,7 +1,7 @@
 ![Banner](/.github/banner/gh-banner.png)
 
 # About
-I'm actually an digital artist and illustrator whose into tech and multimedia. I mostly use GitHub to run the blog site with GitHub Pages.
+I'm actually a digital artist and illustrator whose into tech and multimedia. I mostly use GitHub to track down the changes in my repositories.
 
 ## Platforms
 [![My Skills](https://skillicons.dev/icons?i=windows,apple)](https://skillicons.dev)
