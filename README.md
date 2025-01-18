@@ -11,3 +11,6 @@ I'm actually a digital artist and illustrator whose into tech and multimedia. I 
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=markdown)](https://skillicons.dev)
+
+## Planned to Learn
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,blender,androidstudio)](https://skillicons.dev)
