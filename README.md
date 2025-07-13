@@ -7,12 +7,10 @@ I'm actually a **digital artist who create illustrations** just for fun but in t
 You might recognize me as a member of the **Obsidian Members Group**, a vibrant community dedicated to sharing insights, expertise, and skills related to the [Obsidian](https://obsidian.md) note-taking software, which harnesses the power of Markdown language.
 
 ## Stance on Artificial Intelligence
-<img align="left" width="150" height="150" hspace="5" vspace="5" src=".github/lessaimorehuman.png">
-
+<img align="left" width="100" height="100" hspace="5" vspace="0" src=".github/lessaimorehuman.png">
 We all recognize the potential of artificial intelligence to impact our lives significantly. However, I believe there are both advantages and disadvantages to using these tools. That’s why I developed the “Less AI, More Human Creativity” stance. This approach emphasizes that I utilize AI tools solely for ideas and experimental purposes (currently I use it for grammar checking).
 
 # Tools and Skills
-
 ## Platforms I use:
 [![My Skills](https://skillicons.dev/icons?i=apple,windows)](https://skillicons.dev)
 
