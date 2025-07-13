@@ -21,4 +21,4 @@ We all recognize the potential of artificial intelligence to impact our lives si
 [![My Skills](https://skillicons.dev/icons?i=markdown)](https://skillsicons.dev)
 
 ## Planned to learn these tools and languages:
-[![My Skills](https://skillicons.dev/icons?i=blender,react,nextjs,html,css,ts,wordpress)](https://skillsicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,react,nextjs,html,css,ts)](https://skillsicons.dev)
